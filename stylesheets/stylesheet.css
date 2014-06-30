@@ -421,3 +421,11 @@ Small Device Styles
   }
 
 }
+
+.wikilink {
+  padding-left: 20px;
+  background-image: url('../images/world_link.png');
+  padding-left: 18px;
+  background-image: url('../images/world_link.png');
+  background-repeat: no-repeat;
+}
